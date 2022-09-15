@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has assigned the following tasks to compl
     
 3. Calculate the total number of votes each candidate received.
    - Charles Casper Stockham: 85,213
-    -Diana DeGette: 272,892
+   - Diana DeGette: 272,892
    - Raymon Anthony Doane: 11,606
     
 4. Calculate the total number of votes and percentage for each county.

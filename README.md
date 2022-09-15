@@ -6,7 +6,7 @@ A Colorado Board of Elections employee has assigned the following tasks to compl
 
 1. Calculate the total number of votes cast.
    - The total number of votes cast during the election was 369,711. The screenshot of the code and the text file can be seen below.
-   - ![total_vote_code](Resources/total_vote_code.png) ![total_vote_results_txt](Resources/total_vote_results_txt.png)
+   - ![total_votes_code](Resources/total_votes_code.png) ![total_votes_results_txt](Resources/total_votes_results_txt.png)
     
 2. Get a complete list or candidates who received votes.
    - Charles Casper Stockham

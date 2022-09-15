@@ -70,7 +70,7 @@ with open(file_to_load) as election_data:
 
     # Add a vote to that candidate's count
         candidate_votes[candidate_name] += 1
-
+    
 with open(file_to_save, "w") as txt_file:
 
 # Print the final vote count to the terminal.
@@ -129,4 +129,4 @@ with open(file_to_save, "w") as txt_file:
 
 # Save the winning candidate's name to the text file.
     txt_file.write(winning_candidate_summary)
-    
+

@@ -59,6 +59,6 @@ The analysis of the election show that:
     - Candidate 2 (Diane DeGette), who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Summary
-    - This script can be used in other forms of elections such as the presidential elections of a country, where the county names would be changed to the         state names. In addition, modifying the script to analyse which political parties were popular in each state in the country.
+    - This script can be used in other forms of elections such as the presidential elections of a country, where the county names would be changed to the         state names and county votes can be changed to political party votes. In addition, modifying the script to analyse which political parties were             popular/or most vosted for in each state in the country.
 
 
